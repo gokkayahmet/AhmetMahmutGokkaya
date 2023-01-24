@@ -4,7 +4,7 @@
 ## Financial Engineering
 
 
-![Financial Engineering](https://rare-gallery.com/resol/1600x900/573486-the-matrix-code.jpg)
+![Financial Engineering]([https://rare-gallery.com/resol/1600x900/573486-the-matrix-code.jpg](https://i.pinimg.com/564x/c2/81/1e/c2811ed435ad102ea0bf8bea73d6fb3e.jpg))
 
 A passionate statistics student and programmer living in the Turkey
 I’m currently learning Python, R, Machine Learning,Derivatives, and Statistics. I love to learn about seemingly un-correlated things.
