@@ -10,7 +10,7 @@ A passionate statistics student and programmer living in the Turkey
 I’m currently learning Python, R, Machine Learning,Derivatives, and Statistics. I love to learn about seemingly un-correlated things.
 
 ### Skills 
-#### DOCKER / #### R / #### PYTHON / #### SQL / #### MYSQL  / #### HTML / #### CSS / #### VBA 
+#### DOCKER /  R /  PYTHON /  SQL /  MYSQL  / HTML /  CSS /  VBA 
 
 - 🔭 I’m currently working on Finance/Statistics/Data Science/Derivatives 
 - 🌱 I’m currently learning Python, R,, Machine Learning, and Statistics 
