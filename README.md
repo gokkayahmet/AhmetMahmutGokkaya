@@ -1,14 +1,20 @@
-### Hi there 👋, Ahmet Mahmut Gökkaya
-#### Financial Engineering
+### Hi there 👋
+
+# Ahmet Mahmut Gökkaya
+
+# Financial Engineering
+
 ![Financial Engineering](https://rare-gallery.com/resol/1600x900/573486-the-matrix-code.jpg)
 
 A passionate statistics student and programmer living in the Turkey
 I’m currently learning Python, R, Machine Learning,Derivatives, and Statistics. I love to learn about seemingly un-correlated things.
 
-Skills: DOCKER / R / PYTHON / SQL / MYSQL  / HTML / CSS / VBA / 
+Skills: DOCKER / R / PYTHON / SQL / MYSQL  / HTML / CSS / VBA 
 
 - 🔭 I’m currently working on Finance/Statistics/Data Science/Derivatives 
+
 - 🌱 I’m currently learning Python, R,, Machine Learning, and Statistics 
+
 - 📫 How to reach me: ahmetg.11@hotmail.com 
 
 
