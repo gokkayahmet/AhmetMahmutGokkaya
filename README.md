@@ -4,8 +4,7 @@
 ## Financial Engineering
 
 
-![Financial Engineering]
-(https://64.media.tumblr.com/e1855218d2dab880374713797e08d067/18355031b56cf936-55/s500x750/c583a922772c0cbdc26b21dbfbea67bce69c699b.gifv)
+![Financial Engineering](https://graspskillspmptraining.files.wordpress.com/2018/12/community_image_1419882638.gif?w=512)
 
 ### A passionate statistics student and programmer living in the Turkey
 ### I’m currently learning Python, R, Machine Learning,Derivatives, and Statistics. I love to learn about seemingly un-correlated things.
