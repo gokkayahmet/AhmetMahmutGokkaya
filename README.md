@@ -4,7 +4,7 @@
 ## Financial Engineering
 
 
-(https://i.pinimg.com/originals/6d/9d/7e/6d9d7e589dc84a44e2f31100725a0af3.gif)
+![Financial Engineering](https://i.pinimg.com/originals/6d/9d/7e/6d9d7e589dc84a44e2f31100725a0af3.gif)
 
 A passionate statistics student and programmer living in the Turkey
 I’m currently learning Python, R, Machine Learning,Derivatives, and Statistics. I love to learn about seemingly un-correlated things.
