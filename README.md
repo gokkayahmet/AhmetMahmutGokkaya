@@ -7,7 +7,8 @@
 ![Financial Engineering](https://graspskillspmptraining.files.wordpress.com/2018/12/community_image_1419882638.gif?w=512)
 
 ### A passionate statistics student and programmer living in the Turkey
-### I’m currently learning Python, R, Machine Learning,Derivatives, and Statistics. I love to learn about seemingly un-correlated things.
+### I’m currently learning Python, R, Machine Learning, Financial Engineering/Quant Finance/Quantitative Analysis/Risk Management. 
+### I love to learn about seemingly un-correlated things.
 
 ### Skills 
 #### DOCKER /  R /  PYTHON /  SQL /  MYSQL  / HTML /  CSS /  VBA 
