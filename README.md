@@ -13,7 +13,7 @@
 ### Skills 
 #### DOCKER /  R /  PYTHON /  SQL /  MYSQL  / HTML /  CSS /  VBA 
 
-- 🔭 I’m currently working on Finance/Statistics/Data Science/Derivatives 
+- 🔭 I’m currently working on Finance/Statistics/Derivatives 
 - 🌱 I’m currently learning Python, R, Machine Learning and Statistics 
 - 📫 How to reach me: ahmetg.11@hotmail.com 
 
