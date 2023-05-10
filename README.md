@@ -11,11 +11,11 @@
 ### I love to learn about seemingly un-correlated things.
 
 ### Skills 
-#### DOCKER /  R /  PYTHON /  SQL /  MYSQL  / HTML /  CSS /  VBA 
+#### DOCKER /  R /  PYTHON /  SQL /  MYSQL  / HTML /  CSS /  VBA / JAVA
 
-- 🔭 I’m currently working on Finance/Statistics/Derivatives 
-- 🌱 I’m currently learning Python, R, Machine Learning and Statistics 
-- 📫 How to reach me: ahmetg.11@hotmail.com 
+- 🔭 I’m currently working on Finance/Statistics/Derivatives/Quantitative Researche 
+- 🌱 I’m currently learning Python, R, Java, Machine Learning and Statistics 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gokkayahmet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gokkayahmet/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/ahmetgokkaya)  
