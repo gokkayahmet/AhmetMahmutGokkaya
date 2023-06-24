@@ -4,7 +4,7 @@
 ## Financial Engineering
 
 
-![Financial Engineering](https://graspskillspmptraining.files.wordpress.com/2018/12/community_image_1419882638.gif?w=512)
+![Financial Engineering](https://64.media.tumblr.com/2f0b045795f7f45fe2d3ccda61994b05/d17378f5a15ec76c-1d/s1280x1920/1bf83f3411275511e89b6af590062ed42ac6070f.gifv)
 
 ### A passionate statistics student and programmer living in the Turkey
 ### I’m currently learning Python, R, Machine Learning, Financial Engineering/Quant Finance/Quantitative Analysis/Risk Management. 
