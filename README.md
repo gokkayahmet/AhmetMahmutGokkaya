@@ -1,5 +1,4 @@
-### Hi there 👋
-# Ahmet Mahmut Gökkaya
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F709&background=30FF7600&width=435&lines=Hi%2C+I'm+Ahmet+Mahmut+G%C3%B6kkaya+..;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 ## Financial Engineering
 
@@ -13,7 +12,7 @@
 ### Skills 
 #### DOCKER /  R /  PYTHON /  SQL /  MYSQL  / HTML /  CSS /  VBA / JAVA
 
-- 🔭 I’m currently working on Finance/Statistics/Derivatives/Quantitative Researche 
+- 🔭 I’m currently working on Finance/Statistics/Data Science/Quantitative Researcher 
 - 🌱 I’m currently learning Python, R, Java, Machine Learning and Statistics 
 
 
