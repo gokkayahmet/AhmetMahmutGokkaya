@@ -12,7 +12,7 @@
 ### Skills 
 #### DOCKER /  R /  PYTHON /  SQL /  MYSQL  / HTML /  CSS /  VBA / JAVA
 
-- 🔭 I’m currently working on Finance/Statistics/Data Science/Quantitative Researcher 
+- 🔭 I’m currently working on Finance/Statistics/Quantitative Researcher 
 - 🌱 I’m currently learning Python, R, Java, Machine Learning and Statistics 
 
 
