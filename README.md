@@ -10,10 +10,10 @@
 ### I love to learn about seemingly un-correlated things.
 
 ### Skills 
-#### DOCKER /  R /  PYTHON /  SQL /  MYSQL  / HTML /  CSS /  VBA / JAVA
+####  R /  PYTHON /  SQL /    VBA 
 
 - 🔭 I’m currently working on Finance/Statistics/Quantitative Researcher 
-- 🌱 I’m currently learning Python, R, Java, Machine Learning and Statistics 
+- 🌱 I’m currently learning Python,  Machine Learning and Statistics 
 
 
 
